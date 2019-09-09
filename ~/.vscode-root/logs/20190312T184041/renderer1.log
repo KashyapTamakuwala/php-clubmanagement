@@ -1,0 +1,6 @@
+[2019-03-12 18:40:48.642] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-03-12 18:42:09.383] [renderer1] [info] no standard startup: not just one text editor
+[2019-03-13 09:37:57.745] [renderer1] [info] no standard startup: not a new window
+[2019-03-13 09:37:57.792] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}
+[2019-03-13 09:38:06.386] [renderer1] [info] no standard startup: not a new window
+[2019-03-13 09:38:06.396] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}

@@ -1,0 +1,132 @@
+!SESSION 2019-03-13 09:46:00.345 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -data /opt/lampp/htdocs/clubmanagement/~/.vscode-root/User/workspaceStorage/3791da91c81fb2f50b72222d37fbf1d1/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:07.665
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:08.481
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:08.627
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:08.628
+!MESSAGE Initializing Java Language Server 0.34.0.201902280417
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:08.930
+!MESSAGE Installed reference:file:/home/anshuman/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.4/dist/com.microsoft.jdtls.intellicode.core-0.3.9.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:09.266
+!MESSAGE Installed reference:file:/home/anshuman/.vscode/extensions/vscjava.vscode-java-debug-0.17.0/server/com.microsoft.java.debug.plugin-0.17.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:09.350
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:09.407
+!MESSAGE Installed reference:file:/home/anshuman/.vscode/extensions/vscjava.vscode-java-dependency-0.3.0/server/com.microsoft.jdtls.ext.core-0.3.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:09.522
+!MESSAGE Installed reference:file:/home/anshuman/.vscode/extensions/vscjava.vscode-java-test-0.15.0/server/com.microsoft.java.test.plugin-0.15.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:10.808
+!MESSAGE Started reference:file:/home/anshuman/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.4/dist/com.microsoft.jdtls.intellicode.core-0.3.9.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:10.937
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:12.286
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:13.119
+!MESSAGE Workspace initialized in 4311ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:13.344
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:13.346
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:13.362
+!MESSAGE >>New configuration: {java={home=null, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null}}, trace={server=off}, import={gradle={enabled=true}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}}, saveActions={organizeImports=false}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=true, showQualifiedNames=false, maxStringLength=0.0, enableHotCodeReplace=true, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true}}, dependency={showOutline=true, syncWithFolderExplorer=true, packagePresentation=flat}, test={report={position=sideView}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:16.127
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:16.129
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-13 09:46:16.142
+!MESSAGE >>New configuration: {java={home=null, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=false, updateBuildConfiguration=interactive, maven={userSettings=null}}, trace={server=off}, import={gradle={enabled=true}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}}, saveActions={organizeImports=false}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=true, showQualifiedNames=false, maxStringLength=0.0, enableHotCodeReplace=true, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true}}, dependency={showOutline=true, syncWithFolderExplorer=true, packagePresentation=flat}, test={report={position=sideView}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-14 17:24:51.466
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-14 17:25:32.448
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-14 17:25:32.494
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2019-03-24 16:50:22.634 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -data /opt/lampp/htdocs/clubmanagement/~/.vscode-root/User/workspaceStorage/3791da91c81fb2f50b72222d37fbf1d1/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:28.584
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:29.257
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:29.319
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:29.320
+!MESSAGE Initializing Java Language Server 0.35.0.201903150009
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:29.431
+!MESSAGE Installed reference:file:/home/anshuman/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.4/dist/com.microsoft.jdtls.intellicode.core-0.3.9.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:29.578
+!MESSAGE Installed reference:file:/home/anshuman/.vscode/extensions/vscjava.vscode-java-debug-0.17.0/server/com.microsoft.java.debug.plugin-0.17.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:29.919
+!MESSAGE Installed reference:file:/home/anshuman/.vscode/extensions/vscjava.vscode-java-dependency-0.3.0/server/com.microsoft.jdtls.ext.core-0.3.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:30.028
+!MESSAGE Installed reference:file:/home/anshuman/.vscode/extensions/vscjava.vscode-java-test-0.15.1/server/com.microsoft.java.test.plugin-0.15.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:31.398
+!MESSAGE Started reference:file:/home/anshuman/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.4/dist/com.microsoft.jdtls.intellicode.core-0.3.9.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:31.443
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:31.770
+!MESSAGE Workspace initialized in 2435ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:31.869
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:31.871
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 16:50:31.886
+!MESSAGE >>New configuration: {java={home=null, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=false, updateBuildConfiguration=interactive, maven={userSettings=null}}, trace={server=off}, import={gradle={enabled=true}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}}, saveActions={organizeImports=false}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false, useBlocks=false, generateComments=false}}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=true, showQualifiedNames=false, maxStringLength=0.0, enableHotCodeReplace=true, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true}}, dependency={showOutline=true, syncWithFolderExplorer=true, packagePresentation=flat}, test={report={position=sideView}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 17:07:13.245
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 17:07:13.392
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 17:07:13.392
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-03-24 17:07:13.399
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

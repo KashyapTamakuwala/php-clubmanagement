@@ -1,0 +1,80 @@
+[2019-04-10 19:24:44.155] [sharedprocess] [info] main {"machineId":"181fb428f6e5db68b64bde6383c05ccdf7a71b964536c1404b80b0a2a4351130"}
+[2019-04-10 19:24:45.244] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:24:45.500] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-10 19:24:46.958] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-10 19:24:47.050] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:24:49.619] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:24:50.074] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-04-10 19:24:50.076] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2019-04-10 19:24:50.077] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2019-04-10 19:24:50.213] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:24:50.334] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:24:50.465] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:24:52.890] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /tmp/af660907-8c5a-4055-adac-3ead8a0b1ebe
+[2019-04-10 19:24:53.217] [sharedprocess] [info] Extracted extension to /home/anshuman/.vscode/extensions/.vscjava.vscode-maven-0.16.1: vscjava.vscode-maven
+[2019-04-10 19:24:53.218] [sharedprocess] [info] Renamed to /home/anshuman/.vscode/extensions/vscjava.vscode-maven-0.16.1
+[2019-04-10 19:24:53.219] [sharedprocess] [info] Installation completed. vscjava.vscode-maven
+[2019-04-10 19:24:53.494] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven
+[2019-04-10 19:24:58.845] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test /tmp/d35a1edf-e37a-4915-9fdd-8db13cfc0a40
+[2019-04-10 19:24:59.063] [sharedprocess] [info] Extracted extension to /home/anshuman/.vscode/extensions/.vscjava.vscode-java-test-0.16.0: vscjava.vscode-java-test
+[2019-04-10 19:24:59.063] [sharedprocess] [info] Renamed to /home/anshuman/.vscode/extensions/vscjava.vscode-java-test-0.16.0
+[2019-04-10 19:24:59.064] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test
+[2019-04-10 19:24:59.146] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:24:59.166] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-10 19:24:59.199] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2019-04-10 19:25:06.724] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/088c7b98-b6a9-415d-a20d-e68c0ee07496
+[2019-04-10 19:25:07.863] [sharedprocess] [info] Extracted extension to /home/anshuman/.vscode/extensions/.ms-python.python-2019.3.6558: ms-python.python
+[2019-04-10 19:25:07.863] [sharedprocess] [info] Renamed to /home/anshuman/.vscode/extensions/ms-python.python-2019.3.6558
+[2019-04-10 19:25:07.867] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-04-10 19:25:07.983] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-04-10 19:25:24.165] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-04-10 19:29:49.694] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:34:49.776] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:39:49.847] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:44:49.944] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:49:50.012] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:54:50.073] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 19:59:50.159] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:04:50.244] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:09:50.331] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:14:50.412] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:19:50.510] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:24:51.221] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:29:51.350] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:34:51.440] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:39:51.520] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:44:51.611] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:49:51.696] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:54:51.911] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 20:59:52.038] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:04:52.122] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:09:52.201] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:14:52.265] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:19:52.344] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:24:52.914] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:29:53.003] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:34:53.081] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:39:53.167] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:44:53.282] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:49:53.369] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:54:53.429] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 21:59:53.518] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:04:53.624] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:09:53.687] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:14:53.767] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:19:53.880] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:24:54.448] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:29:54.524] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:34:54.604] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:39:54.681] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:44:54.751] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:49:54.852] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:54:54.936] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 22:59:55.001] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 23:04:55.066] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 23:09:55.151] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 23:14:55.210] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 23:19:55.297] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 23:24:56.475] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 23:29:56.562] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-10 23:34:56.644] [sharedprocess] [info] Scanned user extensions: 12

@@ -1,0 +1,5 @@
+[2019-03-22 00:36:33.568] [renderer1] [info] no standard startup: not using cached data
+[2019-03-22 00:36:33.601] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}
+[2019-03-22 00:36:36.798] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 68% of 551.919ms, saved PROFILE here: '/tmp/exthost-642028.cpuprofile' [{"id":"program","total":7528,"percentage":1},{"id":"ritwickdey.LiveServer","total":376165,"percentage":68},{"id":"self","total":142414,"percentage":26},{"id":"vscode.css-language-features","total":22422,"percentage":4}]
+[2019-03-22 00:36:45.501] [renderer1] [info] no standard startup: not a new window
+[2019-03-22 00:36:45.512] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}

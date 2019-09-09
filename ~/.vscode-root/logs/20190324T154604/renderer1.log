@@ -1,0 +1,2 @@
+[2019-03-24 15:46:16.388] [renderer1] [info] standard startup
+[2019-03-24 15:46:19.844] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 93% of 1625.326ms, saved PROFILE here: '/tmp/exthost-14e690.cpuprofile' [{"id":"gc","total":3045,"percentage":0},{"id":"program","total":12643,"percentage":1},{"id":"ritwickdey.LiveServer","total":1515547,"percentage":93},{"id":"self","total":77977,"percentage":5},{"id":"vscode.php-language-features","total":13489,"percentage":1}]
